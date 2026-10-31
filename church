@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star of Bethel Missionary Baptist Church</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 50px;
+        }
+        .container {
+            background: #bae6fd;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+   
+
+    <div class="container">
+        <h1>Star of Bethel Missionary Baptist Church</h1>
+        <!-- Subheader tag added here -->
+        <h2>3223 Smith Street Fort Wayne, Indiana 46806</h2>
+        
+        <img src="church.jpg" alt="Star of Bethel Missionary Baptist Church">
+    </div>
+
+</body>
+</html>
+
+        <!-- Image embedded using church.jpg from your folder -->
+        <img src="church.jpg" alt="A small brick church building with a cross on the roof">
+    </div>
+
+</body>
+</html>
